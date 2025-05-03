@@ -1,0 +1,16 @@
+# Qt 项目忽略规则
+*.pro.user     # Qt Creator 用户配置（含本地路径）
+*.autosave     # IDE 自动保存文件
+build-*/       # 所有构建目录（如 build-MyProject-Debug）
+Debug/         # Debug 编译输出目录
+Release/       # Release 编译输出目录
+*.o            # 编译生成的中间文件
+*.a            # 静态库文件
+*.exe          # Windows 可执行文件
+*.dll          # 动态链接库
+.qmake.stash   # QMake 生成的临时文件
+
+# 通用忽略规则
+.DS_Store      # macOS 系统文件
+*.log          # 日志文件
+*.tmp          # 临时文件
