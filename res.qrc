@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>D:/桌面杂项/游戏娱乐/Music/壁纸/bird-9163532_1280.webp</file>
+        <file>D:/桌面杂项/游戏娱乐/Music/壁纸/galaxy-3608029_1280.jpg</file>
+    </qresource>
+</RCC>
